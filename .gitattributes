@@ -1,3 +1,6 @@
 
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
+scripts/* annex.largefiles=nothing
+metadata/* annex.largefiles=nothing
+recordings/converted/* annex.largefiles=((mimeencoding=binary))
