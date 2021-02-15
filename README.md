@@ -1,5 +1,7 @@
 # VanDam Demo
 
+VanDam, Mark (2018). [VanDam Public Daylong HomeBank Corpus](https://homebank.talkbank.org/access/Public/VanDam-Daylong.html). doi:10.21415/T5388S.
+
 ## Installation instructions
 
 ```bash
