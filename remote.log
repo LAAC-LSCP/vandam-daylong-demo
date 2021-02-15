@@ -1,1 +1,2 @@
+43142fac-cd49-4354-86a7-b137a8b91831 bucket=s3-43142fac-cd49-4354-86a7-b137a8b91831 chunk=100MiB datacenter=eu-west-3 embedcreds=no encryption=none host=s3.amazonaws.com name=s3 port=80 signature=v4 storageclass=STANDARD type=S3 timestamp=1613394544.420194s
 d28eef56-0b4b-49a6-9f53-2c776b9664a4 autoenable=true location=ssh://oberon/home/lgautheron/vandam-cluster name=cluster type=git timestamp=1612533759.641345s
