@@ -1,2 +1,5 @@
 [datalad "dataset"]
 	id = 5b235222-b7ba-47ec-951f-73a0bcc59886
+
+[datalad "metadata"]
+	nativetype = childproject
