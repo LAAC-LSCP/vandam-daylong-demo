@@ -25,3 +25,11 @@ cd vandam-daylong-demo
 datalad get recordings # download all recordings
 datalad get annotations # get annotations
 ```
+Should you get an error like `get(error): annotations/its/converted/BN32_010007_0_0.csv (file) [not available; (Note that these git remotes have annex-ignore set: origin)]`, try the following:
+
+```bash
+pip install datalad-osf
+git annex enableremote osf-annex-storage
+datalad get recordings # download all recordings
+datalad get annotations # get annotations
+```
