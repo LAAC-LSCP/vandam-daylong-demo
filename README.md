@@ -10,7 +10,9 @@ You need [datalad](https://www.datalad.org/) and the [datalad osf extension](htt
 pip install datalad datalad-osf
 ```
 
-The next step is to clone the dataset :
+If anything goes wrong, please check fuller instructions for [installing ChildProject](https://childproject.readthedocs.io/en/latest/install.html), and that you are in the right environment, which may mean doing `source ~/ChildProjectVenv/bin/activate`
+
+The next step is to clone the dataset:
 
 ```bash
 datalad install https://github.com/LAAC-LSCP/vandam-daylong-demo.git
